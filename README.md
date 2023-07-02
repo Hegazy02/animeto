@@ -1,4 +1,4 @@
 # animeto
-## Bloc (Cubit)
-## Rest API
-## filter
+## A Simple app for displaying animes details.
+### State management: Bloc (Cubit).
+### Rest APIi ,Pagination, youtube_player_flutter
